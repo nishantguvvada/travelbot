@@ -1,0 +1,9 @@
+langgraph
+langchain_google_genai
+langchain_tavily
+langchain_core
+pydantic
+typing
+python-dotenv
+fastapi
+uvicorn
